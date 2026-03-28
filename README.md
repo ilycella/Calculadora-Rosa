@@ -1,4 +1,4 @@
-##🎀 Calculadora Rosa
+## 🎀 Calculadora Rosa
 
 Projeto de uma calculadora web funcional e com design estilizado, desenvolvido como atividade prática para a disciplina de **3DAW** da faculdade.
 
